@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="AluraNutricao.MainPage">
+	<ContentPage.Content>
+		<StackLayout Spacing="10" Padding="5" VerticalOptions="Center" HorizontalOptions="Center">
+				
+					<StackLayout Orientation="Horizontal" WidthRequest="1000">
+						<Label Text="Descrição" HorizontalOptions="Start" WidthRequest="100"/>
+						<Entry 
+								Placeholder="Pizza de Mussarela" 
+								x:Name="textDescricao" 
+								HorizontalOptions="FillAndExpand"/>
+					</StackLayout>
+
+					<StackLayout Orientation="Vertical" >
+						<Label Text="Calorias" HorizontalOptions="Start" x:Name="labelCalorias" WidthRequest="75"/>
+						<Slider HorizontalOptions="FillAndExpand"
+								Minimum="0" 
+								Maximum="1000" 
+								ValueChanged="CaloriasSlider_ValueChanged" 
+								x:Name="sliderCalorias"/> 
+					</StackLayout>
+
+					<StackLayout Orientation="Horizontal">
+						<Button Text="Salvar" Clicked="Salvar_Clicked"  HorizontalOptions="FillAndExpand" StyleClass="btn btn-primary"/>
+					</StackLayout>
+			
+		</StackLayout>		
+	</ContentPage.Content>
+</ContentPage>

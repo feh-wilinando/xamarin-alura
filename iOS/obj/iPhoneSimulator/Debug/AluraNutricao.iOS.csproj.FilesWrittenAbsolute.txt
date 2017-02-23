@@ -1,0 +1,15 @@
+/Users/nando/xamarin/Projects/AluraNutricao/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/nando/xamarin/Projects/AluraNutricao/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/nando/xamarin/Projects/AluraNutricao/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/nando/xamarin/Projects/AluraNutricao/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/nando/xamarin/Projects/AluraNutricao/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/nando/xamarin/Projects/AluraNutricao/iOS/bin/iPhoneSimulator/Debug/AluraNutricao.iOS.exe.mdb
+/Users/nando/xamarin/Projects/AluraNutricao/iOS/bin/iPhoneSimulator/Debug/AluraNutricao.iOS.exe
+/Users/nando/xamarin/Projects/AluraNutricao/iOS/obj/iPhoneSimulator/Debug/AluraNutricao.iOS.exe
+/Users/nando/xamarin/Projects/AluraNutricao/iOS/obj/iPhoneSimulator/Debug/AluraNutricao.iOS.exe.mdb
+/Users/nando/xamarin/Projects/AluraNutricao/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/nando/xamarin/Projects/AluraNutricao/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/nando/xamarin/Projects/AluraNutricao/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/nando/xamarin/Projects/AluraNutricao/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/nando/xamarin/Projects/AluraNutricao/iOS/bin/iPhoneSimulator/Debug/AluraNutricao.dll
+/Users/nando/xamarin/Projects/AluraNutricao/iOS/bin/iPhoneSimulator/Debug/AluraNutricao.dll.mdb
